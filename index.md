@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Hal Milenkovic - Painting Ghosts Magic Leap Project
 
-You can use the [editor on GitHub](https://github.com/snuffysam/snuffysamCapstoneDocumentation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 11/18/19 - Super Galaxy Knights: Archer Archives
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The first iteration of the project is a Magic Leap One game titled Super Galaxy Knights: Archer Archives.
 
-### Markdown
+Super Galaxy Knights: Archer Archives is a mixed reality game set in the Super Galaxy Knights universe. The goal of the experience is to mix immersive 3D comic panels in with action gameplay, utilizing all the tools that the Magic Leap One has to offer.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The game is based off of [Super Galaxy Knights Deluxe R](http://sgkdr.thecomicseries.com/comics/), a comic that I have been drawing since 2016. Super Galaxy Knights was chosen as the property to base this game around because-
 
-```markdown
-Syntax highlighted code block
+- I’m knowledgeable about the universe.
+- It’s a property I own.
+- Gameplay makes sense in the universe - it’s easy to tailor new characters’ magic powers to the capabilities of Magic Leap rather than the other way around.
+- The Super Galaxy Knights universe focuses a lot on inclusivity/diversity.
 
-# Header 1
-## Header 2
-### Header 3
+Here is the planned game flow:
 
-- Bulleted
-- List
+- Player uses magic wand tool to start game & navigate to chapter.
+- Player reads through comic panels.
+- Player can walk up to panels & look inside. If a panel is in a wall, player can grab & move it.
+- After the scene concludes, the game prompts the player to perform some task. e.g. , shoot virtual targets with a magic bow.
+- Once the player has completed the chapter, they are shown their score, and unlock the next chapter. Score is framed as “money earned” in the story context.
+- Player can play the chapter again for a better score, or move on to the next chapter.
 
-1. Numbered
-2. List
+The planned story:
 
-**Bold** and _Italic_ and `Code` text
+_Diamis Artene is a reformed assassin who is looking for honest work to support her family. She is called in by Ty Kuna, a wealthy tech CEO, to work for his team of bodyguards. However, she soon finds out that Ty may not be the sort of person worth protecting..._
 
-[Link](url) and ![Image](src)
-```
+Some game precedents:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Dr. Grordbort’s Invaders, a Magic Leap One shooter game. It has fun arcade gameplay, but doesn’t really have a story. The game shows that it's important to work around ML1’s field of view - use audio cues & visible indicators to show where the enemy is (although players still complained about the FOV issues regardless).
+- Madefire Comic App, a Magic Leap One app. The app has MR comics, with sounds & some animation. The comics are nice, but they're not 3D.
 
-### Jekyll Themes
+The Capstone Advisor for the project is [Lindsay Grace](https://professorgrace.com/).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/snuffysam/snuffysamCapstoneDocumentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The current prototype has the first half of the first chapter of the game. It demonstrates menu, comic panels, archery gameplay, & scoring. There is currently no audio, but there is controller feedback. 
 
-### Support or Contact
+Here is the feedback from the prototype:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Controls aren’t obvious to a first-time user of Magic Leap.
+- Magic Leap sometimes messes up hand tracking or controller tracking.
+- Bow is inside FOV when shorter players hold out hand.
+- Targets are often outside the FOV, and the player doesnr't know where to look.
