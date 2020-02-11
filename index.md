@@ -26,7 +26,7 @@ The planned story:
 
 _Diamis Artene is a reformed assassin who is looking for honest work to support her family. She is called in by Ty Kuna, a wealthy tech CEO, to work for his team of bodyguards. However, she soon finds out that Ty may not be the sort of person worth protecting..._
 
-Some game precedents:
+Some design precedents:
 
 - Dr. Grordbort’s Invaders, a Magic Leap One shooter game. It has fun arcade gameplay, but doesn’t really have a story. The game shows that it's important to work around ML1’s field of view - use audio cues & visible indicators to show where the enemy is (although players still complained about the FOV issues regardless).
 - Madefire Comic App, a Magic Leap One app. The app has MR comics, with sounds & some animation. The comics are nice, but they're not 3D.
