@@ -41,3 +41,24 @@ Here is the feedback from the prototype:
 - Magic Leap sometimes messes up hand tracking or controller tracking.
 - Bow is inside FOV when shorter players hold out hand.
 - Targets are often outside the FOV, and the player doesnr't know where to look.
+
+### 1/20/20 - Painting Ghosts
+
+The project "Archer Archives" was abandoned. The bow & arrow and 3D comic gameplay was interesting, but it felt clunky due to the limitations of the Magic Leap One.
+
+PAINTING GHOSTS (working title) is a game designed around the limitations of the Magic Leap One first, with the level design and story aspects coming later. The goal of the project is to first come up with simple mechanics that are built around the restrictions of the hardware, then build a simple game to be released to Magic Leap World by May.
+
+The following is the current iteration of the design:
+- A ring always floats in front of the user, through which all other virtual objects can be seen.
+- This is meant to make the field of view restriction less jarring by adding context to it.
+- The story explanation for this could be that the ring is a “magic lens” to let the player see ghosts.
+- Enemies fly towards the player, and the player has to use the controller to shoot at the enemy to beat them.
+- Current idea is to have the player shoot paint at ghosts - a color matching mechanic could add challenge, and seeing your environment get virtually painted could be fun.
+
+The plan is to have the entire game finished and published on Magic Leap World by May.
+- The main gameplay loop should be finalized by the end of January.
+- Basic art design & gameplay structure should be finished by the end of February (5 types of basic enemy, 3 bosses?).
+- By the end of March, implement story aspects (if any), and add any sound effects, music, & voice acting.
+- The month of April should be spent working out bugs, polishing the game, and figuring out publishing.
+
+[![PROTOTYPE 1](https://img.youtube.com/vi/7zDJAjNYW5s/0.jpg)](https://www.youtube.com/watch?v=7zDJAjNYW5s)
