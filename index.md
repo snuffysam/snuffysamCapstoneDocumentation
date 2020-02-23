@@ -61,4 +61,6 @@ The plan is to have the entire game finished and published on Magic Leap World b
 - By the end of March, implement story aspects (if any), and add any sound effects, music, & voice acting.
 - The month of April should be spent working out bugs, polishing the game, and figuring out publishing.
 
+This is the initial prototype:
+
 [![PROTOTYPE 1](https://img.youtube.com/vi/7zDJAjNYW5s/0.jpg)](https://www.youtube.com/watch?v=7zDJAjNYW5s)
