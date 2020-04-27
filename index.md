@@ -136,7 +136,7 @@ There’s been quite a few changes in the latest prototype!
 
 ### Ghost Ring – Capstone Prototype 4/27/20
 
-[![PROTOTYPE 6](https://img.youtube.com/vi/cet_oEbxDdw/0.jpg)](https://www.youtube.com/watch?v=cet_oEbxDdw)
+[![PROTOTYPE 7](https://img.youtube.com/vi/cet_oEbxDdw/0.jpg)](https://www.youtube.com/watch?v=cet_oEbxDdw)
 
 The major things changed in this update are the main menu and the addition of Level 2.
 
