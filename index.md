@@ -133,3 +133,13 @@ There’s been quite a few changes in the latest prototype!
 - All ghost types have different models, with unique animations.
 - Music and sound effects were added.
 - There is now a boss battle!
+
+### Ghost Ring – Capstone Prototype 4/27/20
+
+[![PROTOTYPE 6](https://img.youtube.com/vi/cet_oEbxDdw/0.jpg)](https://www.youtube.com/watch?v=cet_oEbxDdw)
+
+The major things changed in this update are the main menu and the addition of Level 2.
+
+On the main menu, the player can select which level they want using the touchpad, and press the trigger to confirm. Eventually, each menu option will have its own icon. I’m planning on displaying high scores on the menu, but I’m still trying to figure out how to best take advantage of the real estate.
+
+In level 2 – two enemies come at the player instead of one! This is also the level where the centipede ghost will be introduced to the player. At the end of the level, the player will face Hazza, a ghost of a cowgirl. Her bullets change the color of ghosts in the area. I probably have to tweak some things for difficulty, but… for now, this is how it is!
